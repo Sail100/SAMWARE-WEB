@@ -1,1 +1,30 @@
+<!DOCTYPE html>
 <html>
+    <head>
+        <meta name="viewport" content="width=device-width, intitial-scale=1.0">
+        <title>SanWare Scripts</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+    <div class="hero">
+        <nav>
+            <img src="images/logo.png" class="logo anim">
+            <ul>
+                <li class="anim"><a  href="index.html">Home</a></li>
+                <li class="anim"><a href="#">Scripts</a></li>
+                <li class="anim"><a href="#">Executor</a></li>
+            </ul>
+            <div>
+                <a href="#" class="login-btn anim">Login - Site Admins.</a>
+                <a href="#" class="btn anim">Download Executor</a>
+            </div>
+        </nav>
+        <div class="content">
+            <h1 class="anim">Welcome to<br>SanWare Scripts</h1>
+            <p1 class="anim">This website shows all the scripts we had made.</p1>
+            <a href="index.html" class="btn anim">  Explore scripts.</a>
+        </div>
+    </div>
+    <img  class="anim" src="images/example.png" class="example anim">
+</body>
+</html>
